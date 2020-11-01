@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;short_hand_ops.java&apos; to &apos;org.Redd_pro_vardemo.short_hand_ops.java&apos;&#x0D;&#x0A;- Original project: &apos;Redd_pro&apos;&#x0D;&#x0A;- Destination element: &apos;org.Redd_pro_vardemo.short_hand_ops.java&apos;&#x0D;&#x0A;- Original element: &apos;org.Redd_pro_vardemo.short_hand_ops.java&apos;" description="Copy compilation unit" destination="/src&lt;org.Redd_pro_vardemo{short_hand_ops.java" element1="/src&lt;org.Redd_pro_vardemo{short_hand_ops.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1595122308349" units="1" version="1.0"/>
+</session>

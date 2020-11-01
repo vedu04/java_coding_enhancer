@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;tricks_short&apos; to &apos;java.vs.tricks&apos;&#x0D;&#x0A;- Original project: &apos;Native_collect&apos;&#x0D;&#x0A;- Original element: &apos;Native_collect/src/tricks_short&apos;&#x0D;&#x0A;- Renamed element: &apos;Native_collect/src/java.vs.tricks&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;tricks_short&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;tricks_short" name="java.vs.tricks" qualified="false" references="true" stamp="1596683765282" textual="false" version="1.0"/>
+</session>

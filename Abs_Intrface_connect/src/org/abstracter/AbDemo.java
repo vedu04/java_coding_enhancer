@@ -1,0 +1,30 @@
+//This class does not use the abstract methods.
+//Another class next to it uses the abstract concept ..refer to it.
+package org.abstracter;
+
+public class AbDemo {
+	public static void main(String a[])
+	{ 
+	  iPhone ob= new iPhone();
+	  SamsungS7 s7= new SamsungS7();
+	  
+	  
+	  show(s7);
+	}
+public static void show(iPhone ob) {
+	 ob.showConfig();
+   }
+public static void show(SamsungS7 ob)
+{ob.showConfig();}
+}
+
+
+ class iPhone{
+	 public void showConfig() {
+	 System.out.println("iPhone..........");}
+ }
+ class SamsungS7{
+	 public void showConfig() {
+	 System.out.println("SamsungS7-------");}
+ }
+ 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Firstdemo.properties&apos; to &apos;File_system/src/jon.vs.serial&apos;&#x0D;&#x0A;- Original project: &apos;File_system&apos;&#x0D;&#x0A;- Destination element: &apos;File_system/src/jon.vs.serial&apos;&#x0D;&#x0A;- Original element: &apos;Firstdemo.properties&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;jon.vs.serial" element1="src/Firstdemo.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1597721963465" units="0" version="1.0"/>
+</session>

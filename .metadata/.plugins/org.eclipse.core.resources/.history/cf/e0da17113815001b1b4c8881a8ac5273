@@ -1,0 +1,26 @@
+
+package org.abstracter;
+
+public class AbDemo {
+	public static void main(String a[])
+	{ 
+	  iPhone ob= new iPhone();
+	  SamsungS7 s7= new SamsungS7();
+	  
+	  show(ob);
+	}
+public static void show(iPhone ob) {
+	 ob.showConfig();
+   }
+}
+
+
+ class iPhone{
+	 public void showConfig() {
+	 System.out.println("iPhone..........");}
+ }
+ class SamsungS7{
+	 public void showConfig() {
+	 System.out.println("SamsungS7-------");}
+ }
+ 

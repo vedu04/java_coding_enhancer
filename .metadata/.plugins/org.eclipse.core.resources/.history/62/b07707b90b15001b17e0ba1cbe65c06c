@@ -1,0 +1,15 @@
+
+package org.abstracter;
+
+public class AbDemo {
+
+}
+
+
+ class iPhone{
+	
+ }
+ class SamsungS7{
+	 System.out.println("SamsungS7-------");
+ }
+ 
